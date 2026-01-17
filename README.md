@@ -17,3 +17,6 @@ https://v5.reactrouter.com/web/guides/quick-start
 https://getbootstrap.com/docs/4.5/getting-started/introduction/
 https://reactrouter.com/
 https://getbootstrap.com/docs/5.2/getting-started/introduction/
+https://gist.github.com/Klerith/74a0c4426599f3bc25b7f4e8d95b6a7f
+https://cdnjs.com/libraries/font-awesome
+https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-2/css/all.min.css
