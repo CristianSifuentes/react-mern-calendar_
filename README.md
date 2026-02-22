@@ -20,3 +20,8 @@ https://getbootstrap.com/docs/5.2/getting-started/introduction/
 https://gist.github.com/Klerith/74a0c4426599f3bc25b7f4e8d95b6a7f
 https://cdnjs.com/libraries/font-awesome
 https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-2/css/all.min.css
+
+https://react-redux.js.org
+https://es.redux.js.org
+https://www.npmjs.com/package/redux-thunk
+https://redux-toolkit.js.org
